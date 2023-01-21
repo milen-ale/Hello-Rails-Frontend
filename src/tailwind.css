@@ -1,0 +1,7 @@
+@import url('https://fonts.cdnfonts.com/css/dead-end');
+@import url('https://fonts.cdnfonts.com/css/forzan');
+@import url('https://fonts.cdnfonts.com/css/syera-inline');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
